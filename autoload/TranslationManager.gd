@@ -8,6 +8,7 @@ const PO_EXTENSION := "po"
 const DEFAULT_LOCALE := "en"
 const SUPPORTED_LOCALES := [
 	"en",
+	"ko",
 	"fr",
 	"es",
 	"ja",
@@ -17,10 +18,11 @@ const SUPPORTED_LOCALES := [
 	"ru",
 	"de",
 	"tr",
-	"nl",
+	"nl"
 ]
 
 const LOCALE_TO_LABEL := {
+	"ko": "한국어",
 	"fr": "Français",
 	"es": "Español",
 	"ja": "日本語",
@@ -30,7 +32,7 @@ const LOCALE_TO_LABEL := {
 	"ru": "русский",
 	"de": "Deutsch",
 	"tr": "Türkçe",
-	"nl": "Nederlands",
+	"nl": "Nederlands"
 }
 
 
