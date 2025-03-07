@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: Learn GDScript From Zero\n"
 "Report-Msgid-Bugs-To: https://github.com/GDQuest/learn-gdscript\n"
 "POT-Creation-Date: 2024-12-12 14:39+0100\n"
-"PO-Revision-Date: 2024-03-31 09:14+0000\n"
+"PO-Revision-Date: 2025-03-08 03:45+0900\n"
 "Last-Translator: cyochot <k97un9ri@gmail.com>\n"
 "Language-Team: Japanese <https://hosted.weblate.org/projects/learn-gdscript-"
 "from-zero/glossary_database/ja/>\n"
@@ -18,7 +18,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 5.5-dev\n"
+"X-Generator: Poedit 3.5\n"
 "Generated-By: Babel 2.9.1\n"
 
 #. Reference: member function
@@ -446,12 +446,12 @@ msgstr "インクリメントとはコードの中で値が変化する量のこ
 #. Reference: instruction
 #: course/glossary.csv:68
 msgid "instruction"
-msgstr "命令"
+msgstr "지시"
 
 #. Reference: instruction
 #: course/glossary.csv:68
 msgid "instructions"
-msgstr "命令"
+msgstr "지시"
 
 #. Reference: instruction
 #: course/glossary.csv:68
@@ -470,12 +470,12 @@ msgstr ""
 #. Reference: variable
 #: course/glossary.csv:77
 msgid "variable"
-msgstr "変数"
+msgstr "변수"
 
 #. Reference: variable
 #: course/glossary.csv:77
 msgid "variables"
-msgstr "変数"
+msgstr "변수"
 
 #. Reference: variable
 #: course/glossary.csv:77
@@ -514,12 +514,12 @@ msgstr ""
 #. Reference: while loop
 #: course/glossary.csv:84
 msgid "while loop"
-msgstr "whileループ"
+msgstr "while 루프"
 
 #. Reference: while loop
 #: course/glossary.csv:84
 msgid "while loops"
-msgstr "whileループ"
+msgstr "while 루프"
 
 #. Reference: while loop
 #: course/glossary.csv:84
@@ -563,7 +563,7 @@ msgstr ""
 #. Reference: return
 #: course/glossary.csv:88
 msgid "return"
-msgstr "戻る"
+msgstr "반환"
 
 #. Reference: return
 #: course/glossary.csv:88
