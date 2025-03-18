@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: Learn GDScript From Zero\n"
 "Report-Msgid-Bugs-To: https://github.com/GDQuest/learn-gdscript\n"
 "POT-Creation-Date: 2024-12-12 14:39+0100\n"
-"PO-Revision-Date: 2025-03-10 17:48+0900\n"
+"PO-Revision-Date: 2025-03-18 18:53+0900\n"
 "Last-Translator: cyochot <k97un9ri@gmail.com>\n"
 "Language-Team: Korean <https://hosted.weblate.org/projects/learn-gdscript-"
 "from-zero/glossary_database/ko/>\n"
@@ -358,12 +358,12 @@ msgstr ""
 #. Reference: for loop
 #: course/glossary.csv:59
 msgid "for loop"
-msgstr "for 루프"
+msgstr "for문"
 
 #. Reference: for loop
 #: course/glossary.csv:59
 msgid "for loops"
-msgstr "for 루프"
+msgstr "for문"
 
 #. Reference: for loop
 #: course/glossary.csv:59
@@ -381,8 +381,16 @@ msgid ""
 "We recommend favoring for loops when you can. They're safer and easier to "
 "use than while loops."
 msgstr ""
-"for 루프는 컴퓨터에게 배열 안에 있는 각각의 값들에 한 번씩 반복을 지시합니"
-"다.\n"
+"for문은 컴퓨터에게 배열의 각 값마다 한 번씩 반복하도록 지시합니다.\n"
+"\n"
+"반복이 진행될 때마다 컴파일러는 배열에서 값을 하나씩 가져와 루프 본문에서 사"
+"용할 수 있도록 합니다.\n"
+"\n"
+"for문은 배열의 원소의 수 만큼 제한된 횟수의 코드를 실행시킵니다. 이는 조건이 "
+"충족될 때까지 반복 실행되는 while문과는 다릅니다.\n"
+"\n"
+"while문보다 사용하기 쉽고 무한 반복으로부터 안전하기 때문에 가능하면 for문을 "
+"우선적으로 사용하는 것이 좋습니다."
 
 #. Reference: function
 #: course/glossary.csv:64
@@ -407,14 +415,10 @@ msgid ""
 "\n"
 "Also, functions can optionally return a value to the code calling it."
 msgstr ""
-"関数は名前が付けられた命令コードのグループです。 関数を定義すれば、いつでも呼"
-"び出すことができ、関数に含まれるすべての命令を実行できます。\n"
+"함수는 이름이 있는 명령 코드 그룹입니다. 함수를 정의하면 언제든 그 안에 있는 "
+"모든 명령문들을 실행시킬 수 있습니다.\n"
 "\n"
-"パラメータを使用して関数の動作を変更できます。 パラメータは関数定義に一緒に書"
-"かれる変数のことです。 次にパラメータを関数の本体で使用して、コードを様々な用"
-"途に適応させることができます。\n"
-"\n"
-"また、関数はオプション的に呼び出し側のコードに値を返すことができます。"
+"매개변수를 사용하여 함수의 동작을 변경할 수 있습니다. 매개변수는 "
 
 #. Reference: increment
 #: course/glossary.csv:65
